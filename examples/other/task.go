@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/idealeak/goserver/core/basic"
+	"github.com/kisa77/goserver.v3/core/basic"
 	"math/rand"
 	"time"
 
-	"github.com/idealeak/goserver/core/module"
-	"github.com/idealeak/goserver/core/task"
+	"github.com/kisa77/goserver.v3/core/module"
+	"github.com/kisa77/goserver.v3/core/task"
 )
 
 var TaskExampleSington = &TaskExample{}

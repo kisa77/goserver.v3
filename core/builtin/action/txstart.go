@@ -5,11 +5,11 @@ import (
 	"strconv"
 	"time"
 
-	"code.google.com/p/goprotobuf/proto"
-	"github.com/idealeak/goserver/core/builtin/protocol"
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/netlib"
-	"github.com/idealeak/goserver/core/transact"
+	"github.com/golang/protobuf/proto"
+	"github.com/kisa77/goserver.v3/core/builtin/protocol"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/netlib"
+	"github.com/kisa77/goserver.v3/core/transact"
 )
 
 type TxStartPacketFactory struct {

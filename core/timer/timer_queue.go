@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/idealeak/goserver/core/basic"
+	"github.com/kisa77/goserver.v3/core/basic"
 )
 
 type TimerEntity struct {

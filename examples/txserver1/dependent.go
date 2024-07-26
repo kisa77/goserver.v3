@@ -2,8 +2,8 @@
 package main
 
 import (
-	_ "github.com/idealeak/goserver/core/builtin/action"
-	_ "github.com/idealeak/goserver/core/builtin/filter"
-	_ "github.com/idealeak/goserver/srvlib"
-	_ "github.com/idealeak/goserver/srvlib/handler"
+	_ "github.com/kisa77/goserver.v3/core/builtin/action"
+	_ "github.com/kisa77/goserver.v3/core/builtin/filter"
+	_ "github.com/kisa77/goserver.v3/srvlib"
+	_ "github.com/kisa77/goserver.v3/srvlib/handler"
 )

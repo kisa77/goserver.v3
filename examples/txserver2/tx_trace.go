@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/idealeak/goserver/core"
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/netlib"
-	"github.com/idealeak/goserver/core/transact"
-	"github.com/idealeak/goserver/examples/protocol"
-	"github.com/idealeak/goserver/srvlib"
+	"github.com/kisa77/goserver.v3/core"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/netlib"
+	"github.com/kisa77/goserver.v3/core/transact"
+	"github.com/kisa77/goserver.v3/examples/protocol"
+	"github.com/kisa77/goserver.v3/srvlib"
 )
 
 type traceTransHandler struct {

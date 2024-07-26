@@ -3,7 +3,7 @@ package transact
 import (
 	"fmt"
 
-	"github.com/idealeak/goserver/core/logger"
+	"github.com/kisa77/goserver.v3/core/logger"
 )
 
 var transactionHandlerPool = make(map[TransType]TransHandler)

@@ -1,7 +1,7 @@
 package cmdline
 
 import (
-	"github.com/idealeak/goserver/core"
+	"github.com/kisa77/goserver.v3/core"
 )
 
 var Config = Configuration{}

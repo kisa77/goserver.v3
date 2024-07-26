@@ -5,9 +5,9 @@ import (
 	"errors"
 	"strconv"
 
-	"code.google.com/p/goprotobuf/proto"
-	"github.com/idealeak/goserver/core/builtin/protocol"
-	"github.com/idealeak/goserver/core/netlib"
+	"github.com/golang/protobuf/proto"
+	"github.com/kisa77/goserver.v3/core/builtin/protocol"
+	"github.com/kisa77/goserver.v3/core/netlib"
 )
 
 var (

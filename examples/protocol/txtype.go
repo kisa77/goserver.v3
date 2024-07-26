@@ -1,7 +1,7 @@
 package protocol
 
 import (
-	"github.com/idealeak/goserver/core/transact"
+	"github.com/kisa77/goserver.v3/core/transact"
 )
 
 const (

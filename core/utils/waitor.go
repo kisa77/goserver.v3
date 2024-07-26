@@ -3,7 +3,7 @@ package utils
 import (
 	"sync/atomic"
 
-	"github.com/idealeak/goserver/core/logger"
+	"github.com/kisa77/goserver.v3/core/logger"
 )
 
 type Waitor struct {

@@ -5,9 +5,9 @@ import (
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/idealeak/goserver/core"
-	_ "github.com/idealeak/goserver/core/builtin/filter"
-	"github.com/idealeak/goserver/core/module"
+	"github.com/kisa77/goserver.v3/core"
+	_ "github.com/kisa77/goserver.v3/core/builtin/filter"
+	"github.com/kisa77/goserver.v3/core/module"
 )
 
 func main() {

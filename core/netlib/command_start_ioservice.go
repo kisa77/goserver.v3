@@ -1,8 +1,8 @@
 package netlib
 
 import (
-	"github.com/idealeak/goserver/core"
-	"github.com/idealeak/goserver/core/basic"
+	"github.com/kisa77/goserver.v3/core"
+	"github.com/kisa77/goserver.v3/core/basic"
 )
 
 type startIoService struct {

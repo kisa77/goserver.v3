@@ -5,11 +5,11 @@ import (
 	"time"
 
 	"fmt"
-	"github.com/idealeak/goserver/core"
-	"github.com/idealeak/goserver/core/basic"
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/profile"
-	"github.com/idealeak/goserver/core/utils"
+	"github.com/kisa77/goserver.v3/core"
+	"github.com/kisa77/goserver.v3/core/basic"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/profile"
+	"github.com/kisa77/goserver.v3/core/utils"
 )
 
 const (

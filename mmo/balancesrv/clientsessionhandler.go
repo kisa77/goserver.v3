@@ -1,11 +1,11 @@
 package main
 
 import (
-	"code.google.com/p/goprotobuf/proto"
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/netlib"
-	"github.com/idealeak/goserver/mmo/protocol"
-	"github.com/idealeak/goserver/srvlib"
+	"github.com/golang/protobuf/proto"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/netlib"
+	"github.com/kisa77/goserver.v3/mmo/protocol"
+	"github.com/kisa77/goserver.v3/srvlib"
 )
 
 var (

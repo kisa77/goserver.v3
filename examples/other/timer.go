@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/idealeak/goserver/core/module"
-	"github.com/idealeak/goserver/core/timer"
+	"github.com/kisa77/goserver.v3/core/module"
+	"github.com/kisa77/goserver.v3/core/timer"
 )
 
 var TimerExampleSington = &TimerExample{}

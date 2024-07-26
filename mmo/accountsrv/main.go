@@ -1,10 +1,10 @@
 package main
 
 import (
-	_ "github.com/idealeak/goserver/mmo"
+	_ "github.com/kisa77/goserver.v3/mmo"
 
-	"github.com/idealeak/goserver/core"
-	"github.com/idealeak/goserver/core/module"
+	"github.com/kisa77/goserver.v3/core"
+	"github.com/kisa77/goserver.v3/core/module"
 )
 
 func main() {

@@ -2,8 +2,8 @@
 package main
 
 import (
-	"github.com/idealeak/goserver/core"
-	"github.com/idealeak/goserver/core/module"
+	"github.com/kisa77/goserver.v3/core"
+	"github.com/kisa77/goserver.v3/core/module"
 )
 
 func main() {

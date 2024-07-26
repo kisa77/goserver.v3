@@ -4,8 +4,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/idealeak/goserver/core/container"
-	"github.com/idealeak/goserver/core/netlib"
+	"github.com/kisa77/goserver.v3/core/container"
+	"github.com/kisa77/goserver.v3/core/netlib"
 )
 
 var (

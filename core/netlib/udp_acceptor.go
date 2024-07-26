@@ -7,8 +7,8 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/utils"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/utils"
 	"sync/atomic"
 	"time"
 )

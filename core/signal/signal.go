@@ -4,12 +4,12 @@ package signal
 import (
 	"errors"
 	"fmt"
-	"github.com/idealeak/goserver/core/utils"
+	"github.com/kisa77/goserver.v3/core/utils"
 	"os"
 	"os/signal"
 	"sync"
 
-	"github.com/idealeak/goserver/core/logger"
+	"github.com/kisa77/goserver.v3/core/logger"
 )
 
 var SignalHandlerModule = NewSignalHandler()

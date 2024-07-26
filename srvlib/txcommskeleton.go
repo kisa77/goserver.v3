@@ -1,11 +1,11 @@
 package srvlib
 
 import (
-	"github.com/idealeak/goserver/core/builtin/action"
-	"github.com/idealeak/goserver/core/builtin/protocol"
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/netlib"
-	"github.com/idealeak/goserver/core/transact"
+	"github.com/kisa77/goserver.v3/core/builtin/action"
+	"github.com/kisa77/goserver.v3/core/builtin/protocol"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/netlib"
+	"github.com/kisa77/goserver.v3/core/transact"
 )
 
 type TxCommSkeleton struct {
@@ -69,5 +69,5 @@ func (tcs *TxCommSkeleton) GetAreaID() int {
 }
 
 func init() {
-	transact.RegisteTxCommSkeleton("github.com/idealeak/goserver/srvlib/txcommskeleton", &TxCommSkeleton{})
+	transact.RegisteTxCommSkeleton("github.com/kisa77/goserver.v3/srvlib/txcommskeleton", &TxCommSkeleton{})
 }

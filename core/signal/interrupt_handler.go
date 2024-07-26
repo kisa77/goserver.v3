@@ -3,8 +3,8 @@ package signal
 import (
 	"os"
 
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/module"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/module"
 )
 
 type InterruptSignalHandler struct {

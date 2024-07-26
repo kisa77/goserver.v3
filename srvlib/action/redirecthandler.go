@@ -1,10 +1,10 @@
 package action
 
 import (
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/netlib"
-	"github.com/idealeak/goserver/srvlib"
-	"github.com/idealeak/goserver/srvlib/protocol"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/netlib"
+	"github.com/kisa77/goserver.v3/srvlib"
+	"github.com/kisa77/goserver.v3/srvlib/protocol"
 )
 
 type PacketRedirectPacketFactory struct {

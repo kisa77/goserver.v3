@@ -2,8 +2,8 @@
 package handler
 
 import (
-	"github.com/idealeak/goserver/core/netlib"
-	"github.com/idealeak/goserver/srvlib"
+	"github.com/kisa77/goserver.v3/core/netlib"
+	"github.com/kisa77/goserver.v3/srvlib"
 )
 
 var (

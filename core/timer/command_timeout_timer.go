@@ -2,8 +2,8 @@ package timer
 
 import (
 	"fmt"
-	"github.com/idealeak/goserver/core/basic"
-	"github.com/idealeak/goserver/core/profile"
+	"github.com/kisa77/goserver.v3/core/basic"
+	"github.com/kisa77/goserver.v3/core/profile"
 	"reflect"
 )
 

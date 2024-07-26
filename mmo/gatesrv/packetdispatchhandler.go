@@ -4,11 +4,11 @@ import (
 	"bytes"
 	"sync/atomic"
 
-	"code.google.com/p/goprotobuf/proto"
+	"github.com/golang/protobuf/proto"
 	"games.jiexunjiayin.com/jxjyqp/protocol"
-	"github.com/idealeak/goserver/core/builtin/filter"
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/netlib"
+	"github.com/kisa77/goserver.v3/core/builtin/filter"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/netlib"
 )
 
 func init() {

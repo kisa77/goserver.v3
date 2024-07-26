@@ -10,9 +10,9 @@ import (
 	"strings"
 
 	"github.com/howeyc/fsnotify"
-	"github.com/idealeak/goserver/core"
-	"github.com/idealeak/goserver/core/basic"
-	"github.com/idealeak/goserver/core/logger"
+	"github.com/kisa77/goserver.v3/core"
+	"github.com/kisa77/goserver.v3/core/basic"
+	"github.com/kisa77/goserver.v3/core/logger"
 )
 
 var Config = Configuration{}

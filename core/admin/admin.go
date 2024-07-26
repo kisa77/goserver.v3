@@ -6,9 +6,9 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/schedule"
-	"github.com/idealeak/goserver/core/utils"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/schedule"
+	"github.com/kisa77/goserver.v3/core/utils"
 )
 
 // MyAdminApp is the default AdminApp used by admin module.

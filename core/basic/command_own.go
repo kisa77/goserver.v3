@@ -1,6 +1,6 @@
 package basic
 
-import "github.com/idealeak/goserver/core/container"
+import "github.com/kisa77/goserver.v3/core/container"
 
 type ownCommand struct {
 	c *Object

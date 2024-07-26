@@ -5,9 +5,9 @@ import (
 	"math"
 	"time"
 
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/module"
-	"github.com/idealeak/goserver/core/utils"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/module"
+	"github.com/kisa77/goserver.v3/core/utils"
 )
 
 const (

@@ -2,14 +2,14 @@ package mongo
 
 import (
 	"fmt"
-	"github.com/idealeak/goserver/core/logger"
+	"github.com/kisa77/goserver.v3/core/logger"
 	"sync"
 	"sync/atomic"
 	"time"
 
 	"github.com/globalsign/mgo"
-	"github.com/idealeak/goserver/core"
-	"github.com/idealeak/goserver/core/container"
+	"github.com/kisa77/goserver.v3/core"
+	"github.com/kisa77/goserver.v3/core/container"
 )
 
 var Config = Configuration{

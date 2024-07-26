@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"path"
 
-	"github.com/idealeak/goserver/core/logger"
+	"github.com/kisa77/goserver.v3/core/logger"
 )
 
 type Package interface {

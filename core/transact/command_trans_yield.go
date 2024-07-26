@@ -1,7 +1,7 @@
 package transact
 
 import (
-	"github.com/idealeak/goserver/core/basic"
+	"github.com/kisa77/goserver.v3/core/basic"
 )
 
 type transactYieldCommand struct {

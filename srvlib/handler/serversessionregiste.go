@@ -2,10 +2,10 @@
 package handler
 
 import (
-	"code.google.com/p/goprotobuf/proto"
-	"github.com/idealeak/goserver/core/netlib"
-	"github.com/idealeak/goserver/srvlib"
-	"github.com/idealeak/goserver/srvlib/protocol"
+	"github.com/golang/protobuf/proto"
+	"github.com/kisa77/goserver.v3/core/netlib"
+	"github.com/kisa77/goserver.v3/srvlib"
+	"github.com/kisa77/goserver.v3/srvlib/protocol"
 )
 
 var (

@@ -3,9 +3,9 @@ package srvlib
 import (
 	"strings"
 
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/netlib"
-	"github.com/idealeak/goserver/srvlib/protocol"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/netlib"
+	"github.com/kisa77/goserver.v3/srvlib/protocol"
 )
 
 var (

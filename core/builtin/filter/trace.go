@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/idealeak/goserver/core/logger"
-	"github.com/idealeak/goserver/core/netlib"
+	"github.com/kisa77/goserver.v3/core/logger"
+	"github.com/kisa77/goserver.v3/core/netlib"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"math"
 	"sync"
 
-	"github.com/idealeak/goserver/core/container"
+	"github.com/kisa77/goserver.v3/core/container"
 )
 
 //  Be similar to (Windows, Thread Local Storage)

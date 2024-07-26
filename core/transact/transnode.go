@@ -4,8 +4,8 @@ package transact
 import (
 	"time"
 
-	"github.com/idealeak/goserver/core/basic"
-	"github.com/idealeak/goserver/core/timer"
+	"github.com/kisa77/goserver.v3/core/basic"
+	"github.com/kisa77/goserver.v3/core/timer"
 	"sync"
 	"sync/atomic"
 )

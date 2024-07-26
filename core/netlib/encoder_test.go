@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"code.google.com/p/goprotobuf/proto"
-	"github.com/idealeak/goserver/core/builtin/protocol"
+	"github.com/golang/protobuf/proto"
+	"github.com/kisa77/goserver.v3/core/builtin/protocol"
 )
 
 //func BenchmarkMarshalPacket(b *testing.B) {

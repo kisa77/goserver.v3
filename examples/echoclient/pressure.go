@@ -3,11 +3,11 @@ package main
 import (
 	"time"
 
-	"github.com/idealeak/goserver/core"
-	_ "github.com/idealeak/goserver/core/builtin/action"
-	_ "github.com/idealeak/goserver/core/builtin/filter"
-	"github.com/idealeak/goserver/core/module"
-	"github.com/idealeak/goserver/core/netlib"
+	"github.com/kisa77/goserver.v3/core"
+	_ "github.com/kisa77/goserver.v3/core/builtin/action"
+	_ "github.com/kisa77/goserver.v3/core/builtin/filter"
+	"github.com/kisa77/goserver.v3/core/module"
+	"github.com/kisa77/goserver.v3/core/netlib"
 )
 
 var (

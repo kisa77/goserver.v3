@@ -1,7 +1,7 @@
 package netlib
 
 import (
-	"github.com/idealeak/goserver/core/container/recycler"
+	"github.com/kisa77/goserver.v3/core/container/recycler"
 )
 
 const (

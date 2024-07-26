@@ -5,7 +5,7 @@ import (
 
 	"encoding/json"
 	"fmt"
-	"github.com/idealeak/goserver/core/logger"
+	"github.com/kisa77/goserver.v3/core/logger"
 	"sync"
 	"sync/atomic"
 	"time"

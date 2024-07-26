@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/idealeak/goserver/core/basic"
-	"github.com/idealeak/goserver/core/utils"
+	"github.com/kisa77/goserver.v3/core/basic"
+	"github.com/kisa77/goserver.v3/core/utils"
 )
 
 const (

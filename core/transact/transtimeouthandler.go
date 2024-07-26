@@ -1,7 +1,7 @@
 package transact
 
 import (
-	"github.com/idealeak/goserver/core/timer"
+	"github.com/kisa77/goserver.v3/core/timer"
 )
 
 type transactTimerAction struct {
